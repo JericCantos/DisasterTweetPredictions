@@ -33,3 +33,5 @@ y_pred = model.predict(X_test)
 
 ```
 
+🎬 [Watch the video walkthrough](https://github.com/JericCantos/DisasterTweetPredictions/blob/main/reports/video_walkthrough.mp4)
+
